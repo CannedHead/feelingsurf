@@ -19,32 +19,6 @@
 
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
-	<?php
-	do_action( 'storefront_before_header' ); ?>
-
-	<header id="masthead" class="site-header" role="banner" <?php if ( get_header_image() != '' ) { echo 'style="background-image: url(' . esc_url( get_header_image() ) . ');"'; } ?>>
-		<div class="col-full">
-
-			<?php
-			/**
-			 * @hooked storefront_skip_links - 0
-			 * @hooked storefront_social_icons - 10
-			 * @hooked storefront_site_branding - 20
-			 * @hooked storefront_secondary_navigation - 30
-			 * @hooked storefront_product_search - 40
-			 * @hooked storefront_primary_navigation - 50
-			 * @hooked storefront_header_cart - 60
-			 */
-			do_action( 'storefront_header' ); ?>
-
-		</div>
-	</header><!-- #masthead -->
-
-	<?php
-	/**
-	 * @hooked storefront_header_widget_region - 10
-	 */
-	do_action( 'storefront_before_content' ); ?>
 
 	<header>
 	    <div class='row'>
@@ -72,10 +46,10 @@
 
 	        <!-- Home : Banner
 	        ================================================== -->
-	        <div class="col-sm-12 no-padding banner-nav no-height">
+	        <div class="col-sm-12 no-padding banner-nav no-height" style='height:72px;'>
 	            <div class="col-sm-8 col-sm-offset-2 no-height">
-	                <nav id="navbar-main" class="navbar navbar-default">
-	                  <div class="container-fluid">
+	                <nav id="navbar-main" class="navbar navbar-default" style='margin-bottom:0px; height:50px;'>
+	                  <div class="container-fluid" style='line-height:0px;'>
 	                    <!-- Brand and toggle get grouped for better mobile display -->
 	                    <div class="navbar-header">
 	                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">

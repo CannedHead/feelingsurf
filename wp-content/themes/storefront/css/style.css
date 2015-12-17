@@ -51,7 +51,7 @@ h1,h2,h3,h4,h5,h6{
 */
 
 .banner-principal{
-    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior.jpg) no-repeat;
+    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior.png) no-repeat;
     height: 19vw;
     background-size: 100% auto;
     overflow:hidden;
@@ -234,7 +234,7 @@ section : categorias
 }
 
 .accesorios{
-	background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-accesorios.jpg) no-repeat;
+	background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-accesorios.png) no-repeat;
     height: 47vw;
     background-size: 98% 100%;
     overflow:hidden;
@@ -261,7 +261,7 @@ section : categorias
 
 .descuento{
     margin-bottom:1vw;
-    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/en--descuento.jpg) no-repeat;
+    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/en--descuento.png) no-repeat;
     height: 21vw;
     background-size: 98% 100%;
     overflow:hidden;
@@ -284,7 +284,7 @@ section : categorias
 
 
 .hombre{
-    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-hombre.jpg) no-repeat;    
+    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-hombre.png) no-repeat;    
     height: 25vw;
     background-size: 98% 100%;
     overflow:hidden;
@@ -292,7 +292,7 @@ section : categorias
 }
 
 .mujer{
-    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-mujer.jpg) no-repeat;    
+    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-mujer.png) no-repeat;    
     height: 25vw;
     background-size: 98% 100%;
     overflow:hidden;

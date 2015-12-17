@@ -25,32 +25,32 @@ get_header(); ?>
 	      <!-- Wrapper for slides -->
 	      <div class="carousel-inner" role="listbox">
 	        <div class="col-xs-12 no-padding item active">
-	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.jpg" alt="Chania">
-	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.jpg">
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.png" alt="Chania">
+	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.png">
 	          <div class="carousel-caption">
 	            <h3>FEELINGSURF</h3>
 	          </div>
 	        </div>
 
 	        <div class="item">
-	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.jpg" alt="Chania">
-	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.jpg">
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.png" alt="Chania">
+	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.png">
 	          <div class="carousel-caption">
 	            <h3>FEELINGSURF</h3>
 	          </div>
 	        </div>
 
 	        <div class="item">
-	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.jpg" alt="Chania">
-	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.jpg">
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.png" alt="Chania">
+	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.png">
 	          <div class="carousel-caption">
 	            <h3>FEELINGSURF</h3>
 	          </div>
 	        </div>
 
 	        <div class="item">
-	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.jpg" alt="Chania">
-	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.jpg">
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/banner-superior-2.png" alt="Chania">
+	          <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/imagen-320-460.png">
 	          <div class="carousel-caption">
 	            <h3>FEELINGSURF</h3>
 	          </div>

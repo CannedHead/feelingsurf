@@ -46,7 +46,7 @@
 
 	        <!-- Home : Banner
 	        ================================================== -->
-	        <div class="col-sm-12 no-padding banner-nav no-height" style='height:72px;'>
+	        <div class="col-sm-12 no-padding banner-nav no-height" style='height:50px;'>
 	            <div class="col-sm-8 col-sm-offset-2 no-height">
 	                <nav id="navbar-main" class="navbar navbar-default" style='margin-bottom:0px; height:50px;'>
 	                  <div class="container-fluid" style='line-height:0px;'>

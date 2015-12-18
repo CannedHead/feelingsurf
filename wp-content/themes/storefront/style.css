@@ -862,7 +862,8 @@ a {
     float: right;
     margin-right: 0; }
   .right-sidebar .content-area {
-    width: 73.9130434783%;
+    width: 100%;
+    padding:2%;
     float: left;
     margin-right: 4.347826087%; }
   .right-sidebar .widget-area {

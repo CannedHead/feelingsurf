@@ -135,15 +135,5 @@ get_header(); ?>
 	</section>
 
 
-
-
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
-
-		
-
-		</main><!-- #main -->
-	</div><!-- #primary -->
-
 <?php do_action( 'storefront_sidebar' ); ?>
 <?php get_footer('feeling'); ?>

@@ -1,5 +1,4 @@
 $(document).ready(function(){
-		
 	//NAVBAR     
     var navbar = $('#navbar-main'),
     	distance = navbar.offset().top,

@@ -403,8 +403,12 @@ ul.products li.product {
   .site-header-cart,
   .site-logo-anchor,
   .site-logo-link {
-    margin-top: 3.631em !important;
+    margin-top: 18px !important;
     margin-bottom: 3.631em !important; }
+
+  .site-header-cart .cart-contents{
+    color: #232C3A
+  }
 
   .site-search form {
     margin-bottom: 0; }

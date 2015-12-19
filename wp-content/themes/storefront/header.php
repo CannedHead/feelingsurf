@@ -49,7 +49,7 @@
 	        <div class="col-sm-12 no-padding banner-nav no-height" style='height:50px;'>
 	            <div class="col-sm-8 col-sm-offset-2 no-height">
 	                <nav id="navbar-main" class="navbar navbar-default" style='margin-bottom:0px; height:50px;'>
-	                  <div class="container-fluid" style='line-height:0px;'>
+	                  <div>
 	                    <!-- Brand and toggle get grouped for better mobile display -->
 	                    <div class="navbar-header">
 	                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -70,7 +70,7 @@
 	                        <li><a href="index.php/product-category/music/">ACCESORIOS</a></li>
 	                        <li><a href="index.php/product-category/clothing/">SALE</a></li>
 	                        
-	                        <li>
+	                        <li class="floating-cart">
 	                        	<ul class="site-header-cart menu">
 	                        		<li class="">
 	                        			<a class="cart-contents" href="http://localhost/wordpress/index.php/cart/" title="View your shopping cart">
@@ -80,7 +80,7 @@
 	                        		<li>
 	                        			<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content">
 	                        	        <ul class="cart_list product_list_widget ">                        		
-	                        			 <li class="empty">No products in the cart.</li>	                        		
+	                        			 <li class="empty">No hay productos en el carrito</li>	                        		
 	                        	        </ul><!-- end product list -->
 	                        	</div></div>			</li>
 	                        			</ul>

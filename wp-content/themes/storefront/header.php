@@ -49,7 +49,7 @@
 	        <div class="col-sm-12 no-padding banner-nav no-height" style='height:50px;'>
 	            <div class="col-sm-8 col-sm-offset-2 no-height">
 	                <nav id="navbar-main" class="navbar navbar-default" style='margin-bottom:0px; height:50px;'>
-	                  <div>
+	                  
 	                    <!-- Brand and toggle get grouped for better mobile display -->
 	                    <div class="navbar-header">
 	                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -64,11 +64,11 @@
 	                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
 	                      <ul class="nav navbar-nav">
-	                        <li><a href="index.php/product-category/clothing/">HOMBRE</a></li>
-	                        <li><a href="index.php/product-category/hoodies/">MUJER</a></li>
+	                        <li><a href="index.php/product-category/hombre/">HOMBRE</a></li>
+	                        <li><a href="index.php/product-category/mujer/">MUJER</a></li>
 	                        <li class="navbar-logo hidden-xs"><img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/feelingsurf/logoblancohome.svg"></li>
-	                        <li><a href="index.php/product-category/music/">ACCESORIOS</a></li>
-	                        <li><a href="index.php/product-category/clothing/">SALE</a></li>
+	                        <li><a href="index.php/product-category/accesorios/">ACCESORIOS</a></li>
+	                        <li><a href="index.php/product-category/sale/">SALE</a></li>
 	                        
 	                        <li class="floating-cart">
 	                        	<ul class="site-header-cart menu">
@@ -89,7 +89,7 @@
 	                      </ul>                   
 
 	                    </div><!-- /.navbar-collapse -->
-	                  </div><!-- /.container-fluid -->
+
 	                </nav>
 	            </div>
 	        </div>

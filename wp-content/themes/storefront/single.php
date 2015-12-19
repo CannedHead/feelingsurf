@@ -30,4 +30,4 @@ get_header(); ?>
 	</div><!-- #primary -->
 
 <?php do_action( 'storefront_sidebar' ); ?>
-<?php get_footer(); ?>
+<?php get_footer('feeling'); ?>

@@ -133,12 +133,17 @@ background-color:#fff !important;
     border-radius: 0px;
 }
 
+.navbar-collapse{
+    padding-left: 0;
+    padding-right: 0;
+}
+
 #navbar-main .navbar-logo{
     display:none;
 }
 
 #navbar-main.navbar-fixed-top .navbar-logo{
-    display:block;
+    display:none;
     width: 80px;
     position: absolute;
     left: 50%;
@@ -150,7 +155,18 @@ background-color:#fff !important;
 }
 
 .floating-cart{
+    position: relative;
+    top:-1px;
+    right: -1px;
     background-color: #333;
+}
+
+.site-header-cart{
+    margin-bottom: 3px;
+}
+
+.site-header-cart .cart-contents{
+    padding-top:5px;
 }
 
 .navbar .nav {
@@ -163,6 +179,10 @@ background-color:#fff !important;
     display: table-cell;
     width: 20%;
     float: none;
+}
+
+#navbar-main.navbar-fixed-top{
+
 }
 
 .navbar .nav li a {
@@ -243,7 +263,7 @@ section : categorias
 }
 
 .accesorios{
-	background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-accesorios.png) no-repeat;
+	background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-hombre.png) no-repeat; 
     height: 47vw;
     background-size: 98% 100%;
     overflow:hidden;
@@ -292,8 +312,8 @@ section : categorias
 }
 
 
-.hombre{
-    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-hombre.png) no-repeat;    
+.hombre{       
+    background: url(https://s3-sa-east-1.amazonaws.com/feelingsurf/boton-accesorios.png) no-repeat;
     height: 25vw;
     background-size: 98% 100%;
     overflow:hidden;

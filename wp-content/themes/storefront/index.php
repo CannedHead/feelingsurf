@@ -74,8 +74,8 @@ get_header(); ?>
 	<section class='s-categorias'>
 	        <div class='row'>
 	            <div class='col-sm-6 accesorios'>
-	                <a href="#">
-	                    <h2>ACCESORIOS</h2>
+	                <a href="index.php/product-category/hombre/">
+	                    <h2>HOMBRE</h2>
 	                    <hr style='margin-top:-5px;'>
 	                </a>
 	                <div class='btn-categorias btn-accesorios'> 
@@ -94,8 +94,8 @@ get_header(); ?>
 	                        </div>                     
 	                    </div>
 	                    <div class='col-sm-6 hombre'>
-	                        <a href="#">
-	                            <h3>HOMBRE</h3>
+	                        <a href="index.php/product-category/accesorios">
+	                            <h3>ACCESORIOS</h3>
 	                            <hr style='margin-top:-5px;'>
 	                        </a>
 	                        <div class='btn-categorias btn-gender'> 
@@ -103,7 +103,7 @@ get_header(); ?>
 	                        </div>                               
 	                    </div>
 	                    <div class='col-sm-6 mujer'>
-	                        <a href="#">
+	                        <a href="index.php/product-category/mujer/">
 	                            <h3>MUJER</h3>
 	                            <hr style='margin-top:-5px;'>
 	                        </a>

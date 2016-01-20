@@ -123,7 +123,9 @@ get_header(); ?>
 	    <div class='row' style='position: relative; height:100%'>
 	        <div class='col-sm-5 video-description'>
 	            <h4>FEELINGSURF</h4>
-	            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>   
+	            <p>Feelingsurf con sus texturas y estampados maneja un estilo inspirado en la playa, las olas y el mar. Se maneja la riqueza cultural de Colombia como punto partida para el diseño de las prendas permitiendo que la relación de la marca con sus consumidores sea mas cercana y familiar.
+Todo este mundo de la playa se ha traducido a la ciudad en prendas únicas en las colecciones, celebrando la exclusividad, autenticidad y calidad. 
+Trabajando de la mano con diseñadores que buscan reflejar este estilo de vida relajado pero a la vez lleno de detalles, las colecciones se hacen desde casa con amor para el mundo.</p>   
 	        </div>
 	        <div class='col-sm-7 no-padding' id='video-container'>
 	            <iframe width="560" height="315" src="https://www.youtube.com/embed/tH1FwbI1xKI" frameborder="0" allowfullscreen></iframe>   
